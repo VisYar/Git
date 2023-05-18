@@ -1,5 +1,7 @@
 ## Шпаргалка для работы с GIT
 
+[GIT команды](https://somov-qa.github.io/projects/git/index.html)
+
 ***Полезные ссылки:***
 - **[GIT documentation](https://git-scm.com/doc)**
 
